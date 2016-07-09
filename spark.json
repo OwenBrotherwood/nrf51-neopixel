@@ -1,0 +1,7 @@
+{
+  "name": "neopixel-bluz",
+  "author": "Eric Barch <ericb@ericbarch.com>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A library to drive WS2812(B) Adafruit Neopixels."
+}
