@@ -51,7 +51,7 @@
 #include <stdlib.h>
 #include "nrf_delay.h"
 #include "nrf_gpio.h"
-#include "neopixel.h"
+#include "neopixel-bluz.h"
 
 void neopixel_init(neopixel_strip_t *strip, uint8_t pin_num, uint16_t num_leds)
 {

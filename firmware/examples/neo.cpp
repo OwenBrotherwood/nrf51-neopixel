@@ -1,4 +1,4 @@
-#include "neopixel.h"
+#include "neopixel-bluz/neopixel-bluz.h"
 #include "pinmap_impl.h"
 
 #define PEAK_VALUE 60
