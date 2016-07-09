@@ -3,7 +3,7 @@ nrf51-neopixel
 
 This is a library for using WS2812(B) NeoPixels with a Nordic Semiconductor NRF51822 Bluetooth Low Energy ARM SoC.  
 
-Developed by Lava, LLC.
+Developed by Lava, LLC. Modified by MidAir Technoligies, LLC for upload to the Particle Web IDE 
 
 [Adafruit NeoPixel Strip](http://www.adafruit.com/products/1138)
 
